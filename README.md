@@ -53,6 +53,7 @@ The prototype demonstrates how secure communication, environmental monitoring, a
 - VLAN
 - Network Security
 - Embedded Systems
+- Simulated and tested by WOKWi
 
 ---
 
